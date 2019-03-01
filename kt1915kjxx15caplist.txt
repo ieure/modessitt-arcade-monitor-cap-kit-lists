@@ -1,0 +1,45 @@
+==========================
+Kortek KT-1915 KJ-XX15 19"
+==========================
+
+C201 - 10uf 50v
+C204 - 10uf 50v
+C205 - 10uf 50v
+C208 - 10uf 50v
+C209 - 10uf 50v
+C212 - 10uf 50v
+C213 - 100uf 25v
+C230 - 100uf 25v
+C231 - 4.7uf 50v
+C232 - 47uf 50v
+C234 - 100uf 25v
+C302 - 100uf 25v
+C311 - 1uf 50v
+C312 - 1uf 50v
+C316 - 220uf 16v
+C317 - 10uf 50v
+C401 - 10uf 50v (Negative towards R403)
+C403 - 10uf 50v
+C404 - 1000uf 25v
+C416 - 1000uf 35v
+C417 - 470uf 35v
+C418 - 1000uf 35v
+C419 - 1uf 50v
+C510 - 1uf 50v
+C511 - 1uf 50v
+C515 - 10uf 250v
+C517 - 4.7uf 50v
+C704 - 100uf 16v
+C805 - 220uf 400v (Filter cap)
+C811 - 22uf 50v
+C815 - 220uf 25v
+C816 - 100uf 25v
+C817 - 220uf 25v
+C819 - 470uf 35v
+C820 - 470uf 35v
+C821 - 100uf 160v
+C822 - 100uf 160v
+C824 - 47uf 50v
+
+Compiled by Modessitt
+Provided by www.juniorsrevenge.com

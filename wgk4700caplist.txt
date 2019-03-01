@@ -1,0 +1,49 @@
+===================
+Wells-Gardner K4700
+===================
+
+-------------
+Interface PCB
+-------------
+
+C201 - 1000uF 16v  (Not on all models)
+C203 - 470uF 16v  (Not on all models)
+
+-------
+X/Y PCB
+-------
+
+C306 - 2.2uF 50v
+C310 - 22uF 16v
+C311 - 1000uF 35v
+C313 - 47uF 50v
+C315 - 10uF 25v
+C356 - 4.7uF 25v
+C359 - 4.7uF 160v
+C362 - 10uF 50v
+
+---------
+Power PCB
+---------
+
+C501 - 10uF 160v
+C503 - 22uF 16v
+
+------------
+Main Chassis
+------------
+
+C605 - 330uF 200v  (B+ Filter Cap)
+C608 - 47uF 160v
+C613 - 220uF 25v
+C614 - 10uF 25v
+C617 - 1uF 50v
+C619 - 1uF 50v
+C622 - 47uF 160v
+C623 - 470uF 25v
+C624 - 100uF 25v
+C625 - 10uF 160v
+C633 - 2.2uF 50v  (Bipolar)
+
+Compiled by Edward Lutz
+Provided by www.juniorsrevenge.com

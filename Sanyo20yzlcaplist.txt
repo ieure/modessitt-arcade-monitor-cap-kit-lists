@@ -1,0 +1,41 @@
+============
+Sanyo 20-YZL
+============
+
+C161 - 220uf 25v
+C162 - 4.7uf 25v (Bipolar)
+C166 - 1uf 50v
+C202 - 220uf 16v
+C301 - 10uf 50v
+C302 - 1uf 50v
+C303 - 10uf 50v
+C406 - 10uf 50v
+C407 - 10uf 160v
+C408 - 1uf 160v
+C410 - 100uf 160v
+C411 - 4.7uf 25v (Bipolar)
+C453 - 1uf 50v
+C454 - 1uf 50v
+C458 - 47uf 16v
+C459 - 100uf 16v
+C464 - 22uf 50v
+C467 - 1uf 160v
+C468 - 330uf 25v
+C469 - 220uf 25v
+C471 - 10uf 160v
+C472 - 100uf 160v
+C606 - 470uf 160v
+C609 - 470uf 16v
+C610 - 1uf 160v
+
+-----------
+Sound Board
+-----------
+
+C371 - 4.7uf 25v (Bipolar)
+C375 - 1uf 50v
+C377 - 10uf 160v
+C378 - 220uf 25v
+
+Compiled by Edward Lutz
+Provided by www.juniorsrevenge.com

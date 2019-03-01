@@ -1,0 +1,64 @@
+=======================
+Wells-Gardner D7700 19"
+=======================
+
+---------
+Neckboard
+---------
+
+C806 - 1uf 100v (Bipolar)
+C807 - 1uf 100v
+C816 - 1uf 100v (Bipolar)
+C817 - 1uf 100v
+C826 - 1uf 100v (Bipolar)
+C827 - 1uf 100v
+C833 - 47uf 25v
+C835 - 47uf 25v
+C839 - 47uf 25v
+C841 - 10uf 50v
+C854 - 22uf 160v
+
+------------
+Main Chassis
+------------
+
+C002 - 4.7uf 50v
+C003 - 47uf 25v
+C153 - 220uf 25v
+C207 - 10uf 50v
+C209 - 0.22uf 50v
+C212 - 47uf 25v
+C214 - 47uf 25v
+C216 - 10uf 50v
+C252 - 22uf 50v
+C265 - 10uf 250v
+C266 - 22uf 50v
+C268 - 47uf 25v
+C303 - 10uf 50v
+C309 - 220uf 35v
+C310 - 1000uf 16v
+C311 - 0.47uf 50v
+C427 - 1uf 50v
+C510 - 220uf 400v (Filter)
+C511 - 4.7uf 50v
+C515 - 0.22uf 50v
+C524 - 1000uf 16v
+C525 - 100uf 160v
+C527 - 2200uf 25v
+C528 - 1000uf 16v
+C533 - 220uf 25v
+C538 - 220uf 25v
+C541 - 4.7uf 50v
+C606 - 100uf 200v
+C610 - 0.47uf 250v
+C702 - 10uf 50v
+C703 - 47uf 25v
+C707 - 1uf 50v
+C711 - 1uf 50v
+C712 - 1uf 50v
+C721 - 1uf 50v
+
+All caps are 105° caps.
+
+Compiled by Modessitt
+Provided by www.juniorsrevenge.com

@@ -1,0 +1,39 @@
+=============
+Hantarex Polo
+=============
+
+C12 - 100uf 25v
+C14 - 4.7uf 250v
+C18 - 47uf 25v
+C130 - 100uf 25v
+C137 - 220uf 35v
+C139 - 1000uf 35v
+C142 - 47uf 25v
+C144 - 1000uf 35v
+C146 - 4.7uf 100v
+C149 - 10uf 50v
+C157 - 220uf 16v
+C159 - 2.2uf 50v
+C160 - 2.2uf 50v
+C165 - 1uf 100v
+C166 - 100uf 25v
+C168 - 100uf 200v
+C177 - 47uf 250v
+C182 - 22uf 50v
+C184 - 10uf 50v
+C217 - 10uf 50v
+C401 - 1uf 100v
+
+==================
+Power Supply Board
+==================
+
+C111 - 220uf 25v
+C112 - 22uf 50v
+C114 - 22uf 50v
+C121 - 100uf 200v
+C123 - 10uf 160v
+C129 - 220uf 25v
+
+Compiled by Modessitt
+Provided by www.juniorsrevenge.com

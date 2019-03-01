@@ -1,0 +1,33 @@
+=======================================
+Nanao/Sega MC-2030-S/200-5044/KB240331D
+=======================================
+
+C101 - 100uf 16v
+C401 - 1uf 50v
+C406 - 470uf 16v
+C407 - 10uf 25v
+C409 - 10uf 100v
+C410 - 1uf 50v
+C411 - 220uf 35v
+C413 - 470uf 16v
+C414 - 10uf 25v
+C416 - 10uf 100v
+C417 - 220uf 35v
+C418 - 2.2uf 160v
+C501 - 10uf 25v
+C502 - 10uf 25v
+C503 - 1uf 50v
+C505 - 1uf 50v
+C510 - 1uf 50v
+C511 - 220uf 16v
+C523 - 100uf 50v
+C524 - 47uf 160v
+C526 - 1uf 160v
+C527 - 10uf 160v
+C529 - 10uf 25v
+C905 - 680uf 180v (Filter cap)
+C906 - 22uf 160v
+C910 - 47uf 16v
+
+Compiled by Edward Lutz
+Provided by www.juniorsrevenge.com

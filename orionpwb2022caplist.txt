@@ -1,0 +1,32 @@
+======================
+Orion PWB-2022  SA-V-1
+======================
+
+C201 - 10uf 50v
+C202 - 10uf 50v
+C203 - 10uf 50v
+C251 - 100uf 16v
+C252 - 1uf 50v
+C254 - 220uf 16v
+C305 - 1uf 50v
+C308 - 220uf 16v
+C309 - 4.7uf 250v
+C311 - 470uf 25v
+C312 - 100uf 160v
+C314 - 4.7uf 250v
+C315 - 220uf 16v
+C403 - 1uf 50v
+C408 - 47uf 160v
+C409 - 470uf 25v
+C410 - 1uf 50v
+C414 - 1uf 50v
+C415 - 4.7uf 250v
+C418 - 1uf 250v
+C420 - 100uf 50v
+C421 - 22uf 160v
+C551 - 10uf 50v
+C552 - 3.3uf 160v
+C807 - 22uf 250v
+
+Mined from Monitor Repair Forums
+Provided by www.juniorsrevenge.com

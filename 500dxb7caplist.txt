@@ -1,0 +1,68 @@
+===================
+Neotec 500DXB-7 27”
+===================
+
+C2A4 - 22uf 35v
+C105 - 100uf 16v
+C203 - 1uf 250v (Bipolar)
+C233 - 1uf 250v (Bipolar)
+C263 - 1uf 250v (Bipolar)
+C270 - 47uf 16v
+C272 - 47uf 16v
+C274 - 47uf 16v
+C276 - 22uf 200v
+C279 - 47uf 16v
+C280 - 47uf 16v
+C288 - 22uf 35v
+C290 - 47uf 16v
+C292 - 47uf 16v
+C296 - 220uf 16v
+C305 - 470uf 25v
+C323 - 1000uf 25v
+C325 - 100uf 35v
+C501 - 470uf 25v
+C504 - 330uf 400v (Filter cap)
+C505 - 100uf 16v
+C507 - 100uf 16v
+C510 - 4.7uf 50v
+C519 - 470uf 25v
+C520 - 22uf 200v
+C521 - 330uf 100v
+C523 - 100uf 25v
+C525 - 1000uf 35v
+C527 - 100uf 16v
+C530 - 1000uf 35v
+C545 - 68uf 35v
+C582 - 10uf 50v
+C585 - 100uf 16v
+C601 - 100uf 16v
+C607 - 47uf 16v
+C612 - 4.7uf 50v
+C613 - 4.7uf 50v
+C615 - 47uf 16v
+C623 - 22uf 16v
+C703 - 100uf 35v
+C704 - 10uf 50v
+C715 - 4.7uf 50v
+C722 - 22uf 250v
+C722A - 22uf 250v
+C744 - 47uf 100v
+C745 - 22uf 16v
+C772 - 4.7uf 50v
+C773 - 4.7uf 50v
+C774 - 4.7uf 50v
+C901 - 4.7uf 50v
+C907 - 10uf 50v
+C910 - 10uf 50v
+C922 - 22uf 16v
+C935 - 1uf 50v
+C948 - 1uf 50v
+C949 - 1uf 50v
+C951 - 1uf 50v
+C952 - 1uf 50v
+C953 - 1uf 50v
+
+NOTE:  All caps except the filter cap are 105°.
+
+Compiled by Edward Lutz
+Provided by www.juniorsrevenge.com

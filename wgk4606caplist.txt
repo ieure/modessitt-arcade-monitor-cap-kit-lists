@@ -1,0 +1,51 @@
+===================
+Wells-Gardner K4606
+===================
+
+-------------
+Interface PCB
+-------------
+
+C201 - 1000uf 16v
+C203 - 470uf 16v (not found on all interface boards)
+
+-------
+X/Y PCB
+-------
+
+C306 - 2.2uf 50v
+C310 - 22uf 25v
+C311 - 1000uf 35v
+C313 - 47uf 50v
+C315 - 10uf 50v
+C356 - 4.7uf 25v
+C359 - 4.7uf 160v
+C362 - 10uf 50v
+
+---------
+Power PCB
+---------
+
+C501 - 10uf 160v
+C503 - 22uf 25v
+C551 - 220uf 25v
+
+------------
+Main Chassis
+------------
+
+C607 - 10uf 250v
+C608 - 47uf 160v
+C613 - 220uf 25v
+C614 - 33uf 25v
+C617 - 1uf 50v
+C619 - 1uf 50v
+C623 - 470uf 25v
+C624 - 100uf 25v
+C625 - 10uf 160v
+C632 - 47uf 25v
+C633 - 2.2uf 50v BP
+C662 - 1000uf 50v
+
+Compiled by Modessitt
+Provided by www.juniorsrevenge.com

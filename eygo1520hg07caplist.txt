@@ -1,0 +1,29 @@
+==================
+Eygo 1520H-G07 19"
+==================
+
+C13 - 33uf 25v
+C101 - 100uf 16v
+C102 - 100uf 16v
+C103 - 100uf 16v
+C104 - 1000uf 16v
+C105 - 1uf 50v
+C301 - 1uf 50v
+C309 - 47uf 25v
+C320 - 10uf 250v
+C321 - 470uf 16v
+C322 - 100uf 100v
+C403 - 1uf 50v
+C405 - 100uf 16v
+C406 - 6.8uf 63v
+C409 - 470uf 16v
+C410 - 330uf 50v
+C411 - 4.7uf 160v
+C450 - 1uf 50v
+C451 - 1uf 50v
+C905 - 1uf 160v
+C906 - 100uf 16v
+C907 - 680uf 200v (Filter cap)
+
+Compiled by Edward Lutz
+Provided by www.juniorsrevenge.com

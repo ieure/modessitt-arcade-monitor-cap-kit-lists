@@ -1,0 +1,27 @@
+=======================
+A-One Korea AM-0629 19"
+=======================
+
+C04 - 680uf 200v
+C05 - 22uf 160v
+C07 - 47uf 160v
+C08 - 4.7uf 160v
+C11 - 10uf 250v
+C12 - 1000uf 25v
+C16 - 10uf 50v
+C17 - 4.7uf 63v
+C18 - 10uf 50v
+C19 - 470uf 50v
+C20 - 3.3uf 160v
+C21 - 1uf 50v
+C22 - 1uf 50v
+C29 - 100uf 50v
+C35 - 10uf 50v (Bipolar)
+C36 - 470uf 25v
+C37 - 1uf 50v
+C40 - 100uf 16v
+C41 - 100uf 16v
+C42 - 100uf 63v
+
+Compiled by Edward Lutz
+Provided by www.juniorsrevenge.com

@@ -1,0 +1,17 @@
+===================
+Electrohome G05-801
+===================
+
+C100 - 7200uf 50v
+C101 - 7200uf 50v
+C102 - 1uf 50v (Axial)
+C103 - 1uf 50v (Axial)
+C506 - 45uf 125v (105° Low ESR Cap)
+C804 - 470uf 50v
+C806 - 470uf 50v
+C901 - 47uf 50v
+C909 - 4.7uf 160v
+C910 - 470uf 50v
+
+Compiled by Edward Lutz
+Provided by www.juniorsrevenge.com

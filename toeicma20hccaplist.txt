@@ -1,0 +1,45 @@
+=================
+Toei CM-A20HC 19”
+=================
+
+C1 - 47uf 10v
+C2 - 220uf 16v*
+C3 - 22uf 16v*
+C5 - 3.3uf 50v
+C9 - 47uf 10v
+C10 - 220uf 16v*
+C11 - 22uf 16v*
+C13 - 3.3uf 50v
+C17 - 47uf 10v
+C18 - 220uf 16v*
+C19 - 22uf 16v*
+C21 - 3.3uf 50v
+C25 - 3.3uf 50v
+C27 - 47uf 25v
+C29 - 1uf 50v*
+C40 - 100uf 25v
+C55 - 33uf 160v
+C56 - 2.2uf 50v
+C57 - 10uf 160v
+C58 - 1uf 160v*
+C62 - 220uf 16v
+C64 - 68uf 16v
+C65 - 47uf 16v
+C67 - 10uf 160v
+C70 - 1uf 250v
+C71 - 100uf 160v
+C72 - 470uf 16v*
+C74 - 22uf 160v
+C75 - 470uf 160v (Filter cap)
+C77 - 10uf 16v
+C78 - 1uf 50v (Bipolar)
+C80 - 100uf 16v*
+C81 - 100uf 160v
+C83 - 10uf 160v
+C86 - 100uf 25v
+C87 - 100uf 25v
+
+*Note:  105° cap.
+
+Compiled by Edward Lutz
+Provided by www.juniorsrevenge.com

@@ -1,0 +1,50 @@
+===================
+Wells-Gardner K7203
+===================
+
+C005 - 220uF 400v  (Filter Cap)
+C009 - 22uF 50v
+C013 - 100uF 25v
+C101 - 100uF 160v
+C102 - 100uF 160v
+C103 - 470uF 35v
+C104 - 2200uF 35v
+C105 - 100uF 25v
+C106 - 1000uF 25v
+C107 - 1000uF 25v
+C110 - 10uF 16v
+C305 - 10uF 16v
+C307 - 1000uF 16v
+C308 - 10uF 25v  (Bipolar)
+C309 - 10uF 25v  (Bipolar)
+C310 - 10uF 25v  (Bipolar)
+C316 - 1uF 50v
+C319 - 10uF 25v
+C320 - 0.1u 50v
+C402 - 220uF 35v
+C403 - 2200uF 35v
+C407 - 47uF 25v
+C408 - 2200uF 25v
+C413 - 2.2uF 50v
+C504 - 1uF 50v
+C507 - 1uF 50v
+C511 - 100uF 63v
+C514 - 10uF 50v
+C515 - 1uF 50v
+C516 - 47uF 25v
+C519 - 220uF 16v
+C525 - 100uF 16v
+C611 - 10uF 25v
+C612 - 10uF 50v
+C614 - 10uF 100v  (Bipolar)
+C617 - 0.47uF 50v
+C620 - 1000uF 16v
+C801 - 330uF 160v
+C807 - 100uF 16v
+	
+
+HOT - C5297
+Flyback	- TFT1415-002
+
+Compiled by Modessitt
+Provided by www.juniorsrevenge.com

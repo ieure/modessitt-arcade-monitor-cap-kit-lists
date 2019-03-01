@@ -1,0 +1,49 @@
+======================
+Happ/Segai SE-M21C 19"
+======================
+
+C101 - 0.47uf 50v
+C102 - 0.47uf 50v
+C103 - 0.47uf 50v
+C104 - 100uf 25v
+C105 - 22uf 25v
+C107 - 1uf 50v
+C108 - 1uf 50v
+C110 - 22uf 25v
+C117 - 1uf 160v
+C118 - 1uf 160v
+C119 - 1uf 160v
+C120 - 33uf 160v
+C122 - 1uf 250v
+C208 - 220uf 25v
+C212 - 47uf 16v
+C213 - 2200uf 25v
+C217 - 47uf 35v
+C218 - 10uf 50v
+C219 - 1uf 250v
+C306 - 100uf 25v
+C310 - 1uf 50v
+C311 - 1uf 50v
+C314 - 4.7uf 50v
+C315 - 220uf 35v
+C316 - 100uf 35v
+C318 - 220uf 25v
+C324 - 47uf 35v
+C327 - 47uf 160v
+C328 - 33uf 160v
+C329 - 100uf 25v
+C332 - 1uf 250v
+C334 - 1uf 250v
+C335 - 10uf 50v
+C506 - 1uf 50v
+C508 - 100uf 25v
+C513 - 220uf 400v (Filter cap)
+C514 - 100uf 160v
+C515 - 100uf 160v
+C522 - 1000uf 35v
+C523 - 2200uf 35v (105°)
+C526 - 1000uf 25v
+C527 - 2200uf 25v
+
+Compiled by Edward Lutz
+Provided by www.juniorsrevenge.com

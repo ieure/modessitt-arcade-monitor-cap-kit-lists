@@ -1,0 +1,27 @@
+================
+Ceronix 1492 13"
+================
+
+H10 - 10uf 50v
+66 - 10uf 50v
+68 - 10uf 50v
+125 - 10uf 50v
+126 - 10uf 50v
+127 - 10uf 50v
+131 - 1000uf 35v
+169 - 100uf 25v
+191 - 220uf 35v
+195 - 1000uf 35v
+201 - 10uf 50v
+215 - 1000uf 35v
+218 - 100uf 25v
+225 - 100uf 25v
+230 - 1uf 50v
+233 - 1uf 50v
+256 - 150uf 250v
+257 - 150uf 250v
+286 - 100uf 25v
+317 - 150uf 250v
+
+Compiled by Modessitt
+Provided by www.juniorsrevenge.com

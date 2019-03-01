@@ -1,0 +1,24 @@
+===================
+Electrohome G07-CAO
+===================
+
+C107 - 10uf 250v
+C207 - 100uf 25v
+C208 - 10uf 16v
+C403 - 100uf 25v
+C408 - 4.7uf 50v
+C411 - 100uf 160v
+C412 - 3.3uf 160v
+C504 - 1uf 50v
+C506 - 33uf 16v
+C511 - 47uf 160v (Axial)
+C517 - 470uf 16v
+C520 - 3.3uf 50v (Bipolar)
+C521 - 2200uf 25v
+C523 - 1uf 160v
+C701 - 100uf 10v
+C904 - 600uf 200v (Filter cap)
+C905 - 10uf 250v
+
+Compiled by Edward Lutz
+Provided by www.juniorsrevenge.com

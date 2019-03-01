@@ -1,0 +1,51 @@
+==============
+Nanao MS8-26SU
+==============
+
+----------
+Vert Board
+----------
+
+C420 - 1uf 50v
+C532 - 1uf 50v
+
+---------
+Neckboard
+---------
+
+C332 - 10uf 250v
+
+------------
+Main Chassis
+------------
+
+C401 - 1uf 50v
+C422 - 470uf 50v
+C431 - 33uf 100v
+C432 - 33uf 100v
+C433 - 10uf 25v
+C437 - 120uf 50v
+C451 - 100uf 50v
+C452 - 1uf 100v
+C454 - 47uf 50v
+C501 - 1uf 50v
+C521 - 33uf 16v
+C522 - 47uf 16v
+C537 - 4.7uf 100v
+C561 - 10uf 100v
+C563 - 1uf 50v
+C570 - 22uf 160v
+C572 - 47uf 16v
+C573 - 470uf 16v
+C574 - 10uf 50v
+C576 - 470uf 16v
+C579 - 1uf 50v
+C906 - 100uf 200v
+C908 - 47uf 25v
+C909 - 22uf 160v
+C910 - 220uf 50v
+C912 - 220uf 35v
+C913 - 220uf 35v
+
+Compiled by Modessitt
+Provided by www.juniorsrevenge.com

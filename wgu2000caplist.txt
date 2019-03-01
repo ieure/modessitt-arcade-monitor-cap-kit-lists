@@ -1,0 +1,59 @@
+===================
+Wells-Gardner U2000
+===================
+
+---------
+Neckboard
+---------
+
+C501 - 10uf 25v
+C502 - 10uf 25v
+C503 - 10uf 25v
+C504 - 4.7uf 200v
+C507 - 100uf 16v
+C512 - 1uf 50v (No polarity marking on the board. Negative goes towards the pots.)
+C519 - 4.7uf 50v
+C530 - 10uf 25v
+C5?? - 4.7uf 50v (Positive leg on Collector of Q501.  Negative leg on closest end of W515.)
+
+------------
+Main Chassis
+------------
+
+C105 - 270uf 400v  (Filter Cap)
+C107 - 33uf 160v
+C115 - 100uf 160v
+C117 - 22uf 63v
+C304 - 1000uf 25v
+C305 - 2200uf 35v
+C310 - 10uf 250v
+C600 - 47uf 50v
+C602 - 10uf 25v
+C605 - 100uf 35v
+C607 - 470uf 35v
+C610 - 2.2uf 50v
+C613 - 100uf 35v
+C615 - 47uf 35v
+C616 - 1500uf 35v
+C617 - 47uf 35v
+C700 - 220uf 16v
+C701 - 10uf 25v
+C706 - 1uf 50v
+C709 - 1uf 50v
+C712 - 1000uf 16v
+C713 - 4.7uf 50v
+C716 - 1uf 200v
+C725 - 100uf 50v
+C729 - 220uf 50v
+C730 - 4.7uf 50v
+C731 - 10uf 25v
+C732 - 10uf 25v
+C805 - 2.2uf 200v
+C808 - 2.2uf 200v
+
+
+HOT - C3688
+Flyback - 053X0632-001
+
+Compiled by Modessitt
+Provided by www.juniorsrevenge.com

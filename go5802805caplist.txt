@@ -1,0 +1,19 @@
+=======================
+Electrohome GO5-802/805
+=======================
+
+C500 - 2.2uf 50v
+C501 - 2.2uf 50v
+C502 - 2.2uf 50v
+C503 - 2.2uf 50v
+C504 - 47uf 200v
+C900 - 1000uf 50v
+C901 - 1000uf 50v
+C904 - 47uf 50v
+C908 - 4.7uf 250v
+
+Compiled by Modessitt
+Provided by www.juniorsrevenge.com
+
+
+

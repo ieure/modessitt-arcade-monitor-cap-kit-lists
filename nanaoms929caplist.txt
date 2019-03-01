@@ -1,0 +1,45 @@
+============
+Nanao MS9-29
+============
+
+C102 - 1uF 50v
+C107 - 22uF 50v
+C201 - 47uF 16v
+C202 - 47uF 16v
+C203 - 47uF 16v
+C211 - 2.2uF 50v
+C212 - 2.2uF 50v
+C213 - 2.2uF 50v
+C220 - 470uF 16v
+C221 - 100uF 16v
+C222 - 22uF 50v
+C332 - 10uF 250v
+C402 - 470uF 16v
+C406 - 1000uF 50v
+C407 - 100uF 35v
+C408 - 100uF 35v
+C409 - 100uF 35v
+C411 - 2.2uF 50v
+C451 - 22uF 50v
+C455 - 10uF 50v
+C456 - 10uF 50v
+C457 - 10uF 50v
+C458 - 22uF 50v
+C459 - 22uF 50v
+C503 - 100uF 35v
+C513 - 10uF 250v
+C515 - 100uF 160v
+C554 - 1uF 50v
+C556 - 1uF 50v
+C561 - 47uF 16v
+C562 - 100uF 16v
+C951 - 180uF 100v
+C952 - 220uF 100v
+C954 - 680uF 35v  (Filter Cap)
+C955 - 220uF 35v
+C956 - 680uF 35v  (Filter Cap)
+C958 - 47uF 16v
+C987 - 10uF 50v
+
+Compiled by Modessitt
+Provided by www.juniorsrevenge.com

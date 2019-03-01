@@ -1,0 +1,19 @@
+===================================
+Motorola M5000/M7000/KV-700 19"-23"		
+===================================
+
+C1 - 47uF 50v  (Axial)
+C3 - 22uF 25v  (Axial)
+C4 - 22uF 25v  (Axial)
+C15 - 1uF 16v
+C23 - 150uF 10v	 (Axial)
+C32A - 20uF 200v	
+C32B - 400uF 125v	
+C32C - 600uF 100v	
+C32D - 200uF 50v	
+C40 - 100uF 63v	 (Axial)
+C44 - 4.7uF 100v  (Axial)
+C47 - 100uF 10v
+		
+Compiled by Modessitt
+Provided by www.juniorsrevenge.com

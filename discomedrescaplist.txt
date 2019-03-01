@@ -1,0 +1,35 @@
+===================
+Atari Disco Med-Res
+===================
+
+C005 - 4.7uf 160v
+C006 - 22uf 160v
+C107 - 1uf 16v (Bipolar)  *(10uf 50v)
+C109 - 1uf 16v (Bipolar)
+C110 - 10uf 16v
+C111 - 1uf 50v
+C213 - 100uf 50v  *(100uf 16v)
+C241 - 47uf 160v  *(22uf 160v)
+C401 - 470uf 50v  *(330uf 16v)
+C403 - 1uf 160v
+C407 - 10uf 50v
+C409 - 22uf 63v  *(22uf 25v)
+C412 - 100uf 50v
+C414 - 22uf 63v  *(22uf 25v)
+C503 - 10uf 50v
+C510 - 100uf 50v  *(100uf 16v)
+C520 - 1uf 160v
+C527 - 33uf 50v  *(33uf 25v)
+C533 - 1uf 160v
+C601 - 100uf 160v
+C602 - 470uf 50v
+C603 - 100uf 50v
+C604 - 220uf 100v  *(220uf 25v)
+C605 - 100uf 160v
+C606 - 22uf 160v
+C701 - 10uf 250v
+
+*The values are as pulled from the chassis, but the values in parentheses are what was in the kit.  If you have confirmation as to which is correct, please submit that verification. Also, if you know the exact model number, please submit it.
+
+Compiled by Dylan Rafdal
+Provided by www.juniorsrevenge.com

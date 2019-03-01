@@ -1,0 +1,23 @@
+===================================
+Wells-Gardner V-1000/V-1003 19"/23"
+===================================
+
+C101A - 800uf 125v
+C101B - 220uf 100v
+C101C - 220uf 50v
+C101D - 20uf 200v
+C111 - 33uf 160v (Axial)
+C201 - 47uf 50v
+C202 - 47uf 50v
+C204 - 470uf 16v
+C206 - 100uf 50v
+C221 - 47uf 50v
+C211 - 1uf 50v
+C219 - 150uf 10v (On P277 boards Only)
+C219 - 220uf 10v (On P292 boards only)
+C230 - 1uf 50v (Axial)
+C232 - 22uf 100v
+C234 - 250uf 100v
+
+Mined from Monitor Repair forums
+Provided by www.juniorsrevenge.com

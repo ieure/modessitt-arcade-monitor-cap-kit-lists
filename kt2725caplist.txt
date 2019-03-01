@@ -1,0 +1,39 @@
+=======================
+Sharp Image KT-2725 25”
+=======================
+
+C101 - 470uf 16v
+C201 - 1uf 50v
+C206 - 470uf 16v
+C208 - 10uf 50v
+C209 - 33uf 160v
+C210 - 1uf 50v
+C211 - 100uf 160v
+C217 - 10uf 160v
+C303 - 1uf 50v
+C400 - 33uf 16v
+C403 - 1uf 50v
+C410 - 1uf 50v
+C411 - 220uf 16v
+C413 - 1uf 160v
+C415 - 10uf 50v
+C420 - 47uf 50v
+C422 - 4.7uf 50v*
+C423 - 10uf 50v
+C501 - 10uf 250v
+C509 - 470uf 25v
+C513 - 220uf 25v
+C521 - 47uf 50v
+C522 - 10uf 160v
+C523 - 10uf 160v
+C527 - 47uf 50v
+C529 - 10uf 50v
+C604 - 680uf 200v (Filter cap)
+C606 - 47uf 50v
+C607 - 100uf 160v
+C608 - 100uf 160v
+
+*Note:  Needs verification. One person confirmed the current value, and another said it should be a 10uf 50v.
+
+Compiled by Edward Lutz
+Provided by www.juniorsrevenge.com

@@ -1,0 +1,45 @@
+=======================
+Wells-Gardner K7302 19”
+=======================
+
+C301 - 10uf 16v
+C303 - 10uf 50v
+C304 - 10uf 16v
+C306 - 10uf 50v
+C307 - 10uf 16v
+C309 - 10uf 50v
+C320 - 1uf 50v
+C331 - 10uf 50v
+C339 - 470uf 35v
+C340 - 100uf 25v
+C341 - 1000uf 35v
+C343 - 4.7uf 50v
+C344 - 220uf 26v
+C348 - 100uf 50v
+C360 - 1000uf 25v
+C361 - 1uf 50v
+C362 - 470uf 35v
+C369 - 4.7uf 50v
+C372 - 10uf 50v
+C379 - 22uf 50v
+C382 - 1uf 50v
+C383 - 1uf 50v
+C389 - 1000uf 35v
+C412 - 10uf 250v
+C413 - 1uf 50v
+C560 - 100uf 16v
+C803 - 220uf 400v (Filter cap)
+C805 - 470uf 25v
+C807 - 100uf 16v
+C808 - 10uf 160v
+C809 - 220uf 160v*
+C810 - 470uf 35v
+C811 - 470uf 35v
+C812 - 220uf 25v
+C813 - 100uf 25v
+C818 - 220uf 160v*
+
+*Note:  105° cap.
+
+Compiled by Edward Lutz
+Provided by www.juniorsrevenge.com

@@ -1,0 +1,31 @@
+==================
+Matsushita TM-201G
+==================
+
+C110 - 220uf 16v
+C302 - 220uf 16v
+C304 - 10uf 25v
+C310 - 3.3uf 50v
+C313 - 1uf 50v
+C320 - 100uf 16v
+C345 - 3.3uf 25v
+C402 - 1uf 50v
+C406 - 1uf 160v
+C420 - 22uf 25v (Bipolar)
+C451 - 10uf 50v
+C452 - 10uf 100v
+C454 - 220uf 16v
+C455 - 10uf 100v
+C457 - 10uf 25v
+C531 - 10uf 50v
+C559 - 4.7uf 250v
+C561 - 3.3uf 160v (Bipolar)
+C601 - 1uf 50v
+C751 - 22uf 25v (Bipolar)
+C802 - 4.7uf 250v
+C804 - 33uf 160v
+C805 - 33uf 160v
+
+Mined from www.ionpool.net
+Provided by www.juniorsrevenge.com
+

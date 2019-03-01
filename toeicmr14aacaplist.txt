@@ -1,0 +1,41 @@
+=================
+Toei CM-R14AA 13”
+=================
+
+C1 - 47uf 10v
+C2 - 220uf 16v
+C3 - 22uf 16v
+C4 - 1uf 50v (Bipolar)
+C9 - 47uf 10v
+C10 - 220uf 16v
+C11 - 22uf 16v
+C12 - 1uf 50v (Bipolar)
+C17 - 47uf 10v
+C18 - 220uf 16v
+C19 - 22uf 16v
+C20 - 1uf 50v (Bipolar)
+C25 - 47uf 10v
+C27 - 1uf 50v
+C36 - 10uf 160v
+C37 - 2.2uf 50v
+C41 - 100uf 16v
+C57 - 470uf 16v
+C58 - 1uf 160v
+C62 - 220uf 16v
+C64 - 47uf 16v
+C66 - 10uf 160v
+C67 - 33uf 160v
+C69 - 1uf 160v
+C70 - 100uf 160v
+C72 - 22uf 160v
+C73 - 470uf 160v (Filter cap)
+C76 - 1uf 50v (Bipolar)
+C78 - 1000uf 16v
+C80 - 10uf 350v (Axial)
+C83 - 100uf 25v
+C84 - 100uf 25v
+C86 - 100uf 160v
+C87 - 47uf 16v
+
+Compiled by Edward Lutz
+Provided by www.juniorsrevenge.com

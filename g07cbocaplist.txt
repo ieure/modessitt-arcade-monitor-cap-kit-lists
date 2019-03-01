@@ -1,0 +1,55 @@
+===================
+Electrohome G07-CBO
+===================
+
+---------
+Neckboard
+---------
+
+C107 - 10uf 250v
+
+------------
+Main Chassis
+------------
+
+C301 - 3.3uf 50v (Bipolar)
+C302 - 220uf 16v
+C403 - 100uf 16v
+C407 - 4.7uf 63v
+C408 - 4.7uf 50v
+C411 - 100uf 160v
+C412 - 3.3uf 160v or 200v
+C504 - 1uf 50v
+C506 - 33uf 16v
+C511 - 47uf 160v
+C517 - 100uf 16v
+C518 - 220uf 16v
+C520 - 3.3uf 50v (Bipolar)
+C521 - 2200uf 25v
+C523 - 1uf 160v
+C701 - 100uf 16v
+C904 - 600uf 200v (Filter cap)
+C905 - 10uf 250v
+
+NOTE:  The polarity of C302 is marked incorrectly on the bottom of the chassis.
+
+--------------
+Common failure
+--------------
+
+R908 - 47K-ohm 1/2-watt
+
+
+Some G07 models were sent from the factory with incorrect resistors in the sync circuit.  Those values should be:
+
+R314 - 390-ohm 1/4-watt
+R317 - 390-ohm 1/4-Watt
+
+----------------------------
+Horizontal Curl Modification
+----------------------------
+
+Remove C501.  Remove the cap at C303 and install it at location C501.  Install a new 10uf 50v electrolytic cap at location C301 with the positive lead in the hole closest to the edge of the chassis.
+
+Compiled by Modessitt
+Provided by www.juniorsrevenge.com

@@ -1,0 +1,37 @@
+======================
+Neotec NT-25E/NT-2515C
+======================
+
+C104 - 330uf 400v (Filter cap)
+C106 - 100uf 25v
+C110 - 1uf 50v
+C115 - 100uf 160v
+C116 - 100uf 160v
+C118 - 1000uf 35v
+C119 - 1000uf 35v
+C201 - 1uf 50v
+C203 - 0.47uf 35v
+C206 - 47uf 25c
+C301 - 10uf 50v
+C304 - 470uf 16v
+C305 - 100uf 16v
+C306 - 470uf 35v
+C307 - 100uf 35v
+C308 - 100uf 35v
+C312 - 2200uf 35v
+C314 - 47uf 25v
+C315 - 2.2uf 50v
+C316 - 22uf 25v (Bipolar)
+C402 - 470uf 16v
+C403 - 3.3uf 50v
+C405 - 4.7uf 50v
+C407 - 1uf 50v
+C410 - 1uf 50v
+C422 - 10uf 50v
+C424 - 10uf 50v
+C425 - 100uf 160v
+C501 - 470uf 16v
+C504 - 1000uf 25v
+
+Compiled by Modessitt
+Provided by www.juniorsrevenge.com

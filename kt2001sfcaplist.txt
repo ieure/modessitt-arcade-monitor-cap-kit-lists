@@ -1,0 +1,31 @@
+================
+Kortek KT-2001SF
+================
+
+C151 - 10uf 50v
+C207 - 1uf 50v
+C208 - 10uf 50v
+C209 - 220uf 16v
+C210 - 10uf 160v
+C212 - 10uf 160v
+C213 - 100uf 160v
+C303 - 1uf 50v
+C401 - 1uf 50v
+C402 - 1uf 50v
+C407 - 33uf 16v
+C409 - 10uf 50v
+C502 - 10uf 350v
+C503 - 33uf 50v
+C504 - 3.3uf 100v
+C505 - 470uf 25v
+C507 - 470uf 16v
+C509 - 470uf 25v
+C603 - 0.47uf 50v
+C605 - 4.7uf 50v
+C610 - 2.2uf 350v
+C611 - 100uf 16v
+C614 - 100uf 160v
+C615 - 100uf 160v
+
+Compiled by Modessitt
+Provided by www.juniorsrevenge.com

@@ -1,0 +1,31 @@
+================
+Sanwa PM1718 19”
+================
+
+C101 - 220uf 16v
+C102 - 33uf 25v*
+C104 - 10uf 50v*
+C301 - 3.3uf 35v*
+C303 - 47uf 16v*
+C309 - 1uf 50v*
+C311 - 1uf 50v*
+C312 - 1uf 50v*
+C313 - 220uf 16v
+C318 - 22uf 50v
+C319 - 10uf 50v*
+C320 - 4.7uf 160v
+C321 - 100uf 50v
+C322 - 100uf 160v
+C327 - 100uf 50v
+C329 - 33uf 16v
+C330 - 10uf 50v*
+C401 - 330uf 50v
+C402 - 330uf 50v
+C406 - 33uf 250v
+C801 - 470uf 160v (Bipolar)
+C802 - 22uf 160v
+
+*Note: 105° cap.
+
+Compiled by Edward Lutz
+Provided by www.juniorsrevenge.com

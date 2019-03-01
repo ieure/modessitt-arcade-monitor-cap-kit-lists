@@ -1,0 +1,36 @@
+==========================
+Wei-Ya 20 2620HR (20H) 19”
+==========================
+
+C107 - 220uf 400v (Filter cap)
+C108 - 220uf 16v*
+C109 - 47uf 50v*
+C113 - 100uf 160v
+C115 - 100uf 160v
+C122 - 10uf 50v
+C122A - 10uf 50v*
+C301 - 1uf 50v*
+C303 - 1uf 50v*
+C304 - 1uf 50v*
+C309 - 47uf 25v
+C327 - 100uf 50v*
+C330 - 4.7uf 400v*
+C392 - 22uf 25v*
+C398 - 1000uf 25v*
+C404 - 1uf 50v*
+C407 - 100uf 35v
+C408 - 100uf 16v
+C410 - 1000uf 35v*
+C499 - 470uf 25v*
+C601 - 47uf 25v
+C602 - 47uf 25v
+C603 - 47uf 25v
+C604 - 33uf 25v
+C605 - 220uf 16v
+C606 - 1000uf 25v*
+C803 - 330uf 25v*
+
+*Note:  105° cap.
+
+Compiled by Edward Lutz
+Provided by www.juniorsrevenge.com

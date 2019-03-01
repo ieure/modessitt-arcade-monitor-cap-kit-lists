@@ -1,0 +1,27 @@
+====================
+Amplifone 19" Raster
+====================
+
+C12 - 470uf 200v (Filter cap)
+C17 - 22uf 150v
+C19 - 100uf 35v
+C22 - 22uf 50v (Axial)
+C26 - 22uf 50v (Axial)
+C27 - 100uf 35v
+C29 - 100uf 35v
+C31 - 0.47uf 50v (Axial)
+C32 - 1000uf 35v
+C34 - 10uf 200v
+C36 - 1000uf 50v
+C37 - 47uf 50v (Axial)
+
+
+----------------------
+PLL Card (Some Models)
+----------------------
+
+C3 - 47uf 16v
+C4 - 2.2uf 50v
+
+Compiled by Edward Lutz
+Provided by www.juniorsrevenge.com

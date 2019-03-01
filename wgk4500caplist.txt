@@ -1,0 +1,36 @@
+=======================
+Wells-Gardner K4500 19”
+=======================
+
+C201 - 1000uf 16v
+C305 - 2.2uf 50v
+C306 - 47uf 50v
+C308 - 1uf 50v
+C310 - 4.7uf 50v
+C355 - 4.7uf 50v
+C357 - 10uf 25v
+C503 - 10uf 160v
+C551 - 1uf 50v
+C552 - 10uf 50v
+C553 - 4.7uf 50v
+C554 - 22uf 16v
+C555 - 3.3uf 50v
+C601 - 47uf 10v
+C708 - 560uf 200v (Filter cap)
+C722 - 10uf 160v
+C723 - 47uf 160v
+C724 - 22uf 160v
+C725 - 1uf 50v
+C726 - 47uf 160v
+C729 - 1uf 50v (Bipolar)
+C736 - 4.7uf 160v
+C743 - 10uf 250v
+C744 - 22uf 160v
+C745 - 470uf 25v
+C746 - 220uf 25v
+C754 - 100uf 25v (Bipolar)
+C759 - 100uf 50v
+C761 - 10uf 25v
+
+Compiled by Edward Lutz
+Provided by www.juniorsrevenge.com

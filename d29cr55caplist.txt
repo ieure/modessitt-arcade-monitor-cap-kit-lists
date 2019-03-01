@@ -1,0 +1,62 @@
+===============
+Toshiba D29CR55
+===============
+
+-----------------
+Neckboard PB-6644
+-----------------
+
+C908 - 100uF 16v
+CR01 - 47uF 16v
+CR02 - 47uF 16v
+CR03 - 47uF 16v
+CR05 - 100uF 16v
+CR12 - 3.3uF 50v
+CR15 - 3.3uF 50v
+CR17 - 100uF 16v
+CR18 - 10uF 16v
+CR20 - 10uF 16v
+CR22 - 10uF 16v
+CR32 - 1uF 16v
+CR33 - 10uF 16v
+
+----------------------
+Main Chassis PB-6643-1
+----------------------
+
+C302 - 220uF 16v
+C306 - 1uF 50v
+C307 - 220uF 16v
+C311 - 220uF 50v
+C314 - 220uF 50v
+C315 - 470uF 35v
+C317 - 2200uF 25v
+C401 - 4.7uF 35v
+C404 - 10uF 16v
+C406 - 1uF 50v (This cap has no polarity markings on the board, but the cap was polarized)
+C409 - 1uF 50v
+C412 - 100uF 16v
+C416 - 470uF 35v
+C427 - 100uF 250v
+C428 - 100uF 200v
+C433 - 100uF 50v
+C434 - 1uF 50v (Bipolar)
+C438 - 330uF 25v
+C439 - 4.7uF 35v (Bipolar)
+C447 - 10uF 50v
+C448 - 10uF 50v
+C461 - 4.7uF 35v
+C462 - 10uF 25v
+C491 - 47uF 50v
+C492 - 4.7uF 35v
+CF05 - 10uF 25v 
+CQ08 - 1uF 50v
+CQ15 - 220uF 50v
+CQ20 - 470uF 160v
+CQ24 - 470uF 100v
+CQ27 - 470uF 50v
+CQ29 - 2200uF 25v
+CQ41 - 470uF 25v
+
+Compiled by Modessitt
+Provided by www.juniorsrevenge.com

@@ -1,0 +1,20 @@
+============
+LAI-KZ-20XYB
+============
+
+C202 - 1uf 160v
+C203 - 1uf 160v
+C204 - 1uf 160v
+C701 - 100uf 35v
+C702 - 220uf 35v
+C703 - 0.47uf 50v
+C704 - 10uf 16v
+C705 - 220uf 16v
+C806 - 2200uf 16v
+C807 - 1000uf 25v
+C811 - 1uf 350v
+C812 - 100uf 25v
+C814 - 220uf 16v
+
+Compiled by Dezbaz
+Provided by www.juniorsrevenge.com

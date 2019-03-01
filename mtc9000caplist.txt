@@ -1,0 +1,35 @@
+===========================
+Hantarex MTC-9000 14/16/20"
+===========================
+
+---------
+Neckboard
+---------
+
+C201 - 22uf 50v
+C205 - 10uf 250v
+
+------------
+Main Chassis
+------------
+
+C6 - 47uf 16v
+C9 - 100uf 35v
+C14 - 47uf 16v
+C15 - 1000uf 16v
+C16 - 1000uf 16v
+C22 - 1uf 50v
+C23 - 1uf 100v
+C34 - 22uf 160v
+C35 - 22uf 25v
+C38 - 1uf 100v
+C42 - 4.7uf 50v
+C45 - 1uf 250v
+C54 - 22uf 250v
+C56 - 1uf 250v
+C57 - 1000uf 35v
+C58 - 10uf 50v
+C59 - 100uf 35v
+
+Compiled by Modessitt
+Provided by www.juniorsrevenge.com

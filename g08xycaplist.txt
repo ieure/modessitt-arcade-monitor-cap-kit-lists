@@ -1,0 +1,29 @@
+============================
+Electrohome G08 Color Vector
+============================
+
+C401 - 1000uf 50V
+C405 - 10uf 50V
+C406 - 10uf 50V
+C411 - 22uf 250V
+C601 - 47uf 16V
+C701 - 47uf 16V
+C800 - 10uf 50V
+C801 - 10uf 50V
+C802 - 10uf 50V
+C803 - 10uf 50V
+C901 - 4.7uf 50V
+C902 - 4.7uf 50V
+C904 - 22uf 25V
+C905 - 22uf 25V
+C911 - 100uf 16V
+C916 - 47uf 200V
+
+Q605 - 2N3716
+Q606 - 2N3716
+Q705 - 2N3716
+Q706 - 2N3716
+
+Mined from www.ionpool.net
+Provided by www.juniorsrevenge.com
+

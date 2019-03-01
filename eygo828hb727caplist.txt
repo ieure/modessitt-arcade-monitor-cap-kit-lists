@@ -1,0 +1,41 @@
+==================
+Eygo 828HB 727 25"
+==================
+
+C101 - 220uf 16v
+C102 - 33uf 25v
+C103 - 10uf 50v
+C121 - 47uf 16v
+C122 - 47uf 16v
+C123 - 47uf 16v
+C161 - 10uf 50v
+C162 - 10uf 50v
+C163 - 10uf 50v
+C164 - 10uf 50v
+C165 - 47uf 25v
+C301 - 1uf 50v
+C309 - 1uf 50v
+C311 - 1uf 50v
+C313 - 100uf 160v
+C314 - 10uf 160v
+C316 - 100uf 16v
+C317 - 1uf 50v
+C322 - 220uf 16v
+C326 - 1000uf 25v
+C392 - 22uf 25v
+C393 - 100uf 35v
+C398 - 1000uf 25v
+C401 - 330uf 25v
+C402 - 330uf 25v
+C407 - 10uf 250v
+C411 - 100uf 200v
+C499 - 470uf 25v
+C801 - 470uf 200v
+C802 - 1uf 160v
+C905 - 1000uf 16v
+C906 - 47uf 35v
+C907 - 4.7uf 75v (Bipolar High Frequency)
+C961 - 1000uf 35v
+
+Compiled by Edward Lutz
+Provided by www.juniorsrevenge.com

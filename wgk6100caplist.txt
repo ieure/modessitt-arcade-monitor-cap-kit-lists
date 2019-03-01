@@ -1,0 +1,69 @@
+====================================
+Wells-Gardner K6100 X/Y Color Vector
+====================================
+
+---------
+Neckboard
+---------
+
+C503 - 33uf 250v
+
+---------
+HV Cage
+---------
+
+C901 - 100uf 50v
+C902 - 100uf 50v
+C905 - 33uf 160v (Axial)
+C909 - 22uf 50v
+C910 - 10uf 350v
+C914 - 47uf 50v 
+R901 - 2.2-ohm 2-watt
+R903 - 3.9-ohm 1/2-watt
+R907 - 2.2-ohm 2-watt
+R918 - 25K-ohm potentiometer
+ZD902 - Z150B 150v zener diode
+Q901 - MPSA06 transistor
+Q902 - MPSA06 transistor
+Q903 - 2N2904 transistor
+
+-----------
+Metal Frame
+-----------
+
+Q102 - 2N3716 transistor
+Q103 - 2N3792 transistor
+Q605 - 2N3716 transistor
+Q606 - 2N3792 transistor
+Q705 - 2N3716 transistor
+Q706 - 2N3792 transistor
+
+----------------
+Deflection Board
+----------------
+
+C100 - 4700uf 50v
+C101 - 4700uf 50v
+C102 - 470uf 35v
+C103 - 470uf 35v
+C800 - 0.47uf 35v*
+C801 - 0.47uf 35v*
+C802 - 0.47uf 35v*
+C803 - 0.47uf 35v*
+C804 - 0.47uf 35v*
+C805 - 0.47uf 35v*
+R100 - 15-ohm 1/2-watt
+R101 - 15-ohm 1/2-watt
+R102 - 330-ohm 1/4-watt
+R103 - 330-ohm 1/4-watt
+D104 - 1N4148 diode
+D105 - 1N4148 diode
+ZD100 - 1N4750 27V zener diode
+ZD101 - 1N4750 27v zener diode
+Q100 - MPSA06 transistor
+Q101 - MPSA56 transistor
+
+*Some versions of the deflection board will not have electrolytic caps in these locations and need not be replaced.
+
+Compiled by Modessitt
+Provided by www.juniorsrevenge.com

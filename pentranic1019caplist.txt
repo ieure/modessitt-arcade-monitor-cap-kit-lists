@@ -1,0 +1,29 @@
+==================
+Pentranic 1019 19”
+==================
+
+NOTE: The black polarity markings on the top side are for the positive leg.  They are not for the negative leg as seen on many other chassis models.
+
+C101 - 100uf 16v
+C102 - 100uf 16v
+C103 - 100uf 16v
+C104 - 1000uf 16v
+C105 - 1uf 50v
+C301 - 1uf 50v
+C320 - 4.7uf 160v
+C321 - 470uf 25v 
+C322 - 100uf 100v
+C403 - 1uf 50v
+C405 - 100uf 16v
+C406 - 8.2uf 50v (Substitute a 10uf 50v cap if necessary)
+C410 - 330uf 63v
+C411 - 4.7uf 160v
+C413 - 33uf 25v
+C450 - 1uf 50v
+C451 - 1uf 50v
+C905 - 1uf 160v
+C906 - 100uf 160v
+C907 - 470uf 200v (Filter cap)
+
+Compiled by Modessitt
+Provided by www.juniorsrevenge.com

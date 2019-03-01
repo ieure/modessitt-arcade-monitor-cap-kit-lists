@@ -1,0 +1,103 @@
+===================
+Wells-Gardner D9200
+===================
+
+---------
+Neckboard
+---------
+
+C215 - 100uF 16v
+C223 - 22uF 50v
+C224 - 100uF 16v
+C227 - 100uF 16v
+C229 - 100uF 16v
+C230 - 100uF 16v
+C231 - 10uF 250v
+C232 - 33uF 250v
+C235 - 100uF 16v
+C240 - 100uF 16v
+C246 - 10uF 250v
+C250 - 10uF 50v
+
+--------------------------------------------------------------
+Sync Board (small vertical board soldered to the main chassis)
+--------------------------------------------------------------
+
+CH03 - 22uF 50v
+CH05 - 22uF 50v
+
+------------
+Main Chassis
+------------
+
+C101 - 100uF 16v	
+C102 - 100uF 16v	
+C103 - 100uF 16v	
+C104 - 47uF 16v	
+C104 - 47uF 16v	
+C110 - 100uF 16v	
+C111 - 1uF 50v	
+C112 - 1uF 50v	
+C113 - 1uF 50v	
+C114 - 100uF 16v	
+C115 - 1uF 50v	
+C116 - 1uF 50v	
+C117 - 1uF 50v	
+C118 - 1uF 50v	
+C121 - 10uF 50v	
+C306 - 2200uF 25v	
+C308 - 220uF 50v	
+C314 - 2200uF 16v	
+C317 - 1uF 50v	
+C318 - 2.2uF 50v	
+C324 - 1uF 50v	
+C329 - 100uF 16v	
+C401 - 10uF 50v	(BP)
+C402 - 4.7uF 50v	
+C407 - 100uF 16v	
+C409 - 1uF 50v	
+C411 - 47uF 50v	
+C414 - 220uF 16v	
+C415 - 1000uF 16v	
+C417 - 22uF 250v	
+C418 - 47uF 50v	
+C422 - 22uF 50v	
+C423 - 4.7uF 400v	
+C425 - 47uF 25v	
+C433 - 100uF 16v	
+C445 - 47uF 50v	
+C447 - 10uF 250v	
+C451 - 10uF 250v	
+C452 - 47uF 50v	
+C458 - 47uF 50v	
+C466 - 470uF 25v	
+C472 - 10uF 50v	
+C806 - 33uF 25v	
+C807 - 470uF 250v (Filter)
+C808 - 470uF 250v (Filter)
+C810 - 100uF 25v	
+C813 - 10uF 50v	
+C814 - 10uF 50v	
+C820 - 10uF 50v	
+C823 - 470uF 25v	
+C825 - 220uF 200v	
+C826 - 100uF 200v	
+C827 - 470uF 50v	
+C828 - 2200uF 16v	
+C832 - 100uF 16v	
+C834 - 100uF 16v	
+C838 - 220uF 16v	
+C839 - 10uF 250v	
+C844 - 4.7uF 400v	
+C847 - 470uF 25v	
+C901 - 10uF 50v	
+C904 - 47uF 50v	
+C905 - 10uF 50v	
+C907 - 100uF 25v
+
+
+
+This listing is made from the actual parts on a 27D9202 chassis.  If you have a different version of the D9200 that has different values than what is listed here, please submit it (along with the model number) to modessitt@juniorsrevenge.com
+
+Compiled by Modessitt
+Provided by www.juniorsrevenge.com

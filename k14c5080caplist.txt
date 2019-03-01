@@ -1,0 +1,32 @@
+=================
+Hitachi K14C-5080
+=================
+
+C201 - 47uf 16v
+C203 - 330uf 16v
+C251 - 3.3uf 50v
+C253 - 100uf 16v
+C254 - 3.3uf 160v
+C255 - 4.7uf 160v
+C301 - 1uf 50v
+C303 - 10uf 25v
+C305 - 220uf 16v
+C604 - 33uf 16v
+C607 - 3.3uf 25v
+C610 - 47uf 16v
+C611 - 47uf 16v
+C612 - 2200uf 16v
+C613 - 100uf 16v
+C616 - 100uf 16v
+C706 - 1uf 50v
+C712 - 6.8uf 25v (125° High Frequency BP Cap)
+C713 - 470uf 16v
+C714 - 470uf 16v
+C771 - 1uf 50v
+C772 - 1uf 50v
+C901 - 2200uf 25v
+C902 - 2200uf 25v
+C903 - 220uf 16v
+
+Compiled by Modessitt
+Provided by www.juniorsrevenge.com

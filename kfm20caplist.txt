@@ -1,0 +1,29 @@
+=============
+Kortek KFM-20
+=============
+
+C151 - 10uf 50v
+C207 - 1uf 50v
+C208 - 10uf 50v (labeled as C206 on the solder side)
+C209 - 220uf 16v
+C210 - 10uf 160v
+C212 - 10uf 160v
+C213 - 100uf 160v
+C303 - 1uf 50v
+C401 - 1uf 50v
+C402 - 1uf 50v
+C407 - 33uf 16v
+C409 - 10uf 50v
+C502 - 10uf 250v
+C503 - 47uf 50v
+C504 - 3.3uf 100v
+C505 - 100uf 25v
+C507 - 470uf 16v
+C509 - 470uf 25v
+C605 - 680uf 200v (Filter)
+C606 - 220uf 16v
+C609 - 100uf 160v
+C610 - 22uf 160v
+
+Compiled by Level 42
+Provided by www.juniorsrevenge.com

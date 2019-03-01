@@ -1,0 +1,52 @@
+=========================
+Wells-Gardner 39K7601 39”
+=========================
+
+C105 - 390uf 400v* (Filter cap)
+C107 - 33uf 160v* (Low ESR)
+C112 - 470uf 16v*
+C115 - 100uf 200v*
+C117 - 22uf 100v*
+C118 - 22uf 100v*
+C121 - 2200uf 35v*
+C126 - 1uf 50v*
+C128 - 1500uf 35v*
+C310 - 10uf 200v*
+C501 - 10uf 25v
+C502 - 10uf 25v
+C503 - 10uf 25v
+C504 - 4.7uf 200v*
+C507 - 100f 16v
+C512 - 1uf 50v
+C519 - 4.7uf 50v
+C530 - 10uf 25v
+C600 - 47uf 16v
+C601 - 1500uf 35v*
+C607 - 220uf 50v
+C609 - 1500uf 35v*
+C610 - 47uf 16v
+C700 - 220uf 16v
+C701 - 10uf 25v
+C706 - 1uf 50v*
+C709 - 1uf 50v*
+C712 - 1000uf 16v
+C716 - 1uf 250v
+C725 - 22uf 100v*
+C729 - 10uf 50v* (Bipolar High Frequency)
+C730 - 10uf 50v
+C731 - 10uf 25v
+C732 - 10uf 25v
+C804 - 1uf 250v
+
+--------------------
+P837 Satellite Board
+--------------------
+
+C770 - 100uf 35v*
+C771 - 100uf 35v*
+C772 - 33uf 50v
+
+*Note:  105° cap.
+
+Compiled by Edward Lutz
+Provided by www.juniorsrevenge.com

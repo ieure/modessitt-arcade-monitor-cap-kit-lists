@@ -1,0 +1,32 @@
+============
+Sanyo 14-AZZ
+============
+
+C161 - 220uf 16V
+C162 - 4.7uf 25v (Bipolar)
+C166 - 1uf 50v
+C202 - 220uf 16v
+C205 - 100uf 25v
+C206 - 4.7uf 25v (Bipolar)
+C207 - 1uf 50v
+C208 - 47uf 16v
+C211 - 100uf 16v
+C406 - 4.7uf 160v
+C408 - 4.7uf 25v (Bipolar)
+C410 - 47uf 160v
+C453 - 1uf 50v
+C455 - 1uf 50v
+C457 - 100uf 25v
+C460 - 1uf 50v
+C462 - 100uf 160V
+C475 - 1uf 160v
+C610 - 1uf 160v
+C471 - 10uf 160v
+C474 - 330uf 25V
+C479 - 1uf 16v
+C484 - 330uf 25V (Bipolar)
+C609 - 470uf 10V
+C606 - 470uf 160V (B+ Filter Cap)
+
+Compiled by Edward Lutz
+Provided by www.juniorsrevenge.com

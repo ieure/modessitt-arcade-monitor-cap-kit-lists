@@ -1,0 +1,77 @@
+==============
+Neotec NT-S501
+==============
+							
+---------							
+Neckboard
+---------
+
+C901 - 10uF 50v			
+C903 - 10uF 50v			
+C904 - 10uF 50v			
+C905 - 10uF 50v			
+C906 - 100uF 16v			
+C915 - 100uF 16v			
+C916 - 10uF 50v			
+C917 - 100uF 16v			
+C920 - 47uF 160v			
+C921 - 47uF 160v			
+C950 - 10uF 50v			
+C952 - 10uF 50v			
+
+------------
+Main Chassis
+------------
+
+C104 - 330uF 400v (Filter Cap)	
+C106 - 100uF 35v	
+C110 - 1uF 50v	
+C116 - 470uF 16v	
+C117 - 1000uF 35v*	
+C118 - 100uF 160v	
+C119 - 100uF 160v	
+C120 - 1000uF 35v	
+C121 - 220uF 16v*	
+C124 - 22uF 160v	
+C126 - 470uF 16v	
+C129 - 22uF 160v	
+C130 - 470uF 25v	
+C201 - 100uF 16v	
+C203 - 47uF 16v	
+C204 - 47uF 16v	
+C251 - 1uF 50v	
+C252 - 47uf 25v	
+C301 - 10uF 50v	
+C305 - 100uF 16v	
+C308 - 100uF 35v	
+C309 - 100uF 35v	
+C312 - 1000uF 25v	
+C316 - 220uF 25v	
+C329 - 47uF 16v	
+C350 - 470uF 16v	
+C406 - 1uF 50v	
+C407 - 1uF 50v	
+C411 - 3.3uF 50v*	
+C412 - 4.7uF 50v	
+C414 - 470uF 16v*	
+C415 - 22uF 50v	
+C417 - 100uF 160v	
+C426 - 1uF 250v	
+C430 - 10uF 50v	
+C501 - 100uF 35v	
+C502 - 22uF 50v	
+C504 - 22uF 50v	
+C506 - 4.7uF 50v	
+C507 - 4.7uF 50v	
+C508 - 22uF 50v	
+C550 - 10uF 50v  (Bipolar)	
+C551 - 100uF 35v	
+C603 - 10uF 50v	
+C604 - 10uF 50v	
+
+*Use the polarity markings on the bottom of the chassis, as the ones on top are incorrect.
+
+HOT - BU 2525AF
+
+Compiled by Modessitt
+Provided by www.juniorsrevenge.com

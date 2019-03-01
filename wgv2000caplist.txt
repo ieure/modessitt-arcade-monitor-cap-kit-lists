@@ -1,0 +1,18 @@
+=====================
+Wells-Gardner 19v2000
+=====================
+
+C500 - 1uf 50v
+C501 - 1uf 50v
+C502 - 1uf 50v
+C503 - 1uf 50v
+C504 - 22uf 250v
+C603 - 2.2uf 50v
+C703 - 2.2uf 50v
+C900 - 1000uf 50v
+C901 - 1000uf 50v
+C904 - 47uf 50v
+C908 - 4.7uf 160v
+
+Mined from Monitor Repair forums
+Provided by www.juniorsrevenge.com

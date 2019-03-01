@@ -1,0 +1,39 @@
+=========
+Arctic 19"
+=========
+
+C1 - 220uf 25v
+C2 - 220uf 16v
+C3 - 47uf 16v
+C4 - 47uf 16v
+C5 - 47uf 16v
+C6 - 47uf 16v
+C7 - 220uf 16v
+C8 - 220uf 16v
+C9 - 220uf 16v
+C603 - 1uf 50v
+C605 - 10uf 25v
+C606 - 2.2uf 50v
+C609 - 10uf 160v
+C611 - 100uf 160v
+C612 - 22uf 16v
+C614 - 47uf 16v
+C615 - 330uf 25v
+C701 - 1uf 50v
+C707 - 10uf 25v
+C709 - 3.3uf 50v
+C723 - 1000uf 16v
+C724 - 100uf 10v
+C725 - 100uf 160v
+C726 - 33uf 16v
+C727 - 3.3uf 25v
+C730 - 10uf 160v
+C733 - 3.3uf 25v
+C735 - 22uf 50v
+C907 - 22uf 160v
+C908 - 1uf 160v
+C909 - 33uf 160v
+C??? - 470uf 160v
+
+Mined from www.ionpool.net
+Provided by www.juniorsrevenge.com

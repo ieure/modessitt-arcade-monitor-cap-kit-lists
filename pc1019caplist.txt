@@ -1,0 +1,36 @@
+=====================
+Pentranic PC-1019 19”
+=====================
+
+C101 - 220uf 16v
+C102 - 33uf 25v
+C103 - 10uf 50v
+C121 - 47uf 16v
+C122 - 47uf 16v
+C123 - 47uf 16v
+C301 - 1uf 50v
+C309 - 1uf 50v
+C311 - 1uf 50v
+C312 - 47uf 35v
+C313 - 100uf 200v
+C314 - 10uf 160v
+C316 - 100uf 25v
+C317 - 1uf 50v
+C322 - 220uf 16v
+C326 - 1000uf 35v
+C392 - 22uf 25v
+C393 - 100uf 50v
+C398 - 1000uf 25v
+C401 - 330uf 25v (105°)
+C402 - 330uf 25v (105°)
+C407 - 10uf 250v (105°)
+C411 - 100uf 200v
+C499 - 470uf 25v
+C801 - 470uf 200v (Filter cap)
+C802 - 22uf 160v
+C901 - 1000uf 35v
+C906 - 47uf 35v
+C907 - 4.7uf 50v (Bipolar)
+
+Compiled by Edward Lutz
+Provided by www.juniorsrevenge.com

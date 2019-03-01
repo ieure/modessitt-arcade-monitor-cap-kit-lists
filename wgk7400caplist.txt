@@ -1,0 +1,52 @@
+===================
+Wells-Gardner K7400
+===================				
+
+---------
+Neckboard
+---------
+
+C501 - 10uf 25v
+C502 - 10uf 25v
+C503 - 10uf 25v
+C504 - 4.7uf 160v
+C507 - 100uf 16v
+C530 - 10uf 25v
+
+------------
+Main Chassis
+------------
+
+C105 - 270uf 400v  (Filter Cap)
+C107 - 33uf 200v
+C115 - 100uf 200v
+C117 - 22uf 63v
+C126 - 1uf 50v
+C127 - 470uf 35v
+C304 - 1000uf 25v
+C310 - 10uf 200v
+C600 - 47uf 16v
+C602 - 10uf 50v
+C605 - 100uF 35v
+C607 - 470uf 35v
+C610 - 2.2uf 50v
+C613 - 100uF 35v
+C615 - 33uf 16v
+C616 - 1500uf 35v
+C700 - 220uf 16v
+C701 - 10uf 25v
+C706 - 1uf 50v
+C709 - 1uf 50v
+C712 - 1000uf 16v
+C713 - 4.7uf 25v
+C716 - 1uf 200v
+C729 - 10uf 50v (Bipolar)
+C730 - 4.7uf 25v
+C731 - 10uf 25v
+C732 - 10uf 50v
+C808 - 2.2uf 200v
+C811 - 4.7uf 50v (Bipolar)
+C812 - 2.2uf 350v
+
+Compiled by Modessitt
+Provided by www.juniorsrevenge.com

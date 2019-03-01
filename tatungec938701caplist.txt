@@ -1,0 +1,67 @@
+================
+Tatung EC9387-01
+================
+
+---------
+Neckboard
+---------
+
+C503 - 22uf 100v
+C507 - 22uf 25v
+C582 - 10uf 50v
+C584 - 47uf 16v
+C585 - 10uf 50v
+C903 - 1uf 160v
+C933 - 1uf 160v
+C963 - 1uf 160v
+
+-----------
+Control PCB
+-----------
+
+C223 - 100uf 25v
+C224 - 2.2uf 50v
+
+------------
+Main Chassis
+------------
+
+C201 - 4.7uf 50v
+C202 - 4.7uf 50v
+C205 - 220uf 16v
+C206 - 10uf 50v
+C214 - 10uf 50v
+C321 - 1000uf 16v
+C324 - 100uf 50v
+C322 - 470uf 16v
+C402 - 1uf 50v
+C408 - 4.7uf 50v
+C411 - 100uf 50v
+C412 - 22uf 25v
+C418 - 2.2uf 250v
+C423 - 10uf 50v
+C432 - 47uf 25v
+C443 - 47uf 200v
+C444 - 47uf 200v
+C446 - 1uf 50v
+C464 - 10uf 250v
+C804 - 220uf 400v
+C808 - 100uf 25v
+C809 - 10uf 50v
+C812 - 470uf 16v
+C817 - 2.2uf 50v
+C818 - 1uf 100v
+C820 - 100uf 25v
+C832 - 100uf 100v
+C833 - 1000uf 16v
+C834 - 100uf 16v
+C835 - 1000uf 25v
+C836 - 220uf 100v
+C838 - 100uf 16v
+C839 - 100uf 16v
+C840 - 47uf 16v
+C844 - 100uf 16v
+C847 - 1uf 50v
+
+Mined from Monitor Repair forums
+Provided by www.juniorsrevenge.com

@@ -1,0 +1,50 @@
+=============
+Sanyo 18-Z2AB
+=============
+
+C161 - 220uf 16v
+C162 - 4.7uf 25v (Bipolar)
+C166 - 1uf 50v
+C201 - 10uf 50v
+C202 - 220uf 16v
+C301 - 10uf 50v
+C302 - 1uf 50v
+C303 - 10uf 50v
+C406 - 10uf 50v
+C407 - 10uf 250v
+C408 - 1uf 250v
+C410 - 100uf 200v
+C411 - 4.7uf 25v (Bipolar)
+C453 - 1uf 50v
+C454 - 1uf 50v
+C458 - 47uf 50v
+C459 - 100uf 25v
+C464 - 22uf 63v
+C467 - 1uf 250v
+C468 - 330uf 25v
+C469 - 220uf 25v
+C471 - 10uf 250v
+C472 - 100uf 200v
+C606 - 470uf 160v (Filter Cap)
+C609 - 470uf 10v
+C610 - 1uf 160v
+
+-----------
+Sound Board
+-----------
+
+C372 - 4.7uf 160v
+C373 - 100uf 25v
+C374 - 4.7uf 160v
+C375 - 10uf 50v
+C377 - 22uf 160v
+C378 - 10uf 160v
+
+--------------
+Inverter Board
+--------------
+
+C105 - 100uf 25v
+
+Compiled by Modessitt
+Provided by www.juniorsrevenge.com

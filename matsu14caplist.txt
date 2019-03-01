@@ -1,0 +1,32 @@
+==============
+Matsushita 14"
+==============
+
+C301 - 10uf 16v (Bipolar)
+C302 - 100uf 16v
+C401 - 3.3uf 25v
+C403 - 10uf 16v
+C410 - 22uf 25v (Bipolar)
+C411 - 0.47uf 50v
+C412 - 100uf 16v
+C416 - 220uf 35v
+C417 - 470uf 35v
+C419 - 47uf 35v
+C420 - 220uf 16v
+C421 - 1uf 50v
+C503 - 2.2uf 50v
+C506 - 100uf 16v
+C507 - 10uf 16v
+C511 - 4.7uf 250v
+C515 - 1uf 250v
+C521 - 220uf 35v
+C528 - 100uf 16v
+C807 - 560uf 180v (Filter cap)
+C809 - 33uf 160v
+C812 - 33uf 160v
+
+
+NOTE:  2.2uf 50v cap bridged over the top of R418, using the same holes.  Positive leg towards the fuse.
+
+Compiled by Edward Lutz
+Provided by www.juniorsrevenge.com

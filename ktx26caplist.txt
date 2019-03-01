@@ -1,0 +1,34 @@
+=============
+Kortek KTX-26	
+=============
+
+C101 - 470uf 25v	
+C201 - 1uf 50v	
+C206 - 470uf 25v	
+C208 - 100uf 50v	
+C209 - 33uf 250v	
+C210 - 1uf 50v	
+C211 - 100uf 160v	
+C212 - 47uf 50v	
+C217 - 10uf 160v	
+C303 - 1uf 50v	
+C400 - 1uf 50v (May also have 33uf 16v here)
+C403 - 1uf 50v	
+C410 - 1uf 50v	
+C411 - 220uf 16v	
+C413 - 1uf 160v	
+C422 - 100uf 50v	
+C501 - 10uf 250v	
+C506 - 470uf 25v	
+C513 - 220uf 25v	
+C521 - 10uf 160v	
+C522 - 10uf 160v	
+C523 - 10uf 160v	
+C527 - 47uf 50v	
+C529 - 10uf 50v	
+C606 - 47uf 50v	
+C607 - 100uf 160v	
+C608 - 100uf 160v
+
+Mined from Monitor Repair forums
+Provided by www.juniorsrevenge.com

@@ -1,0 +1,27 @@
+===================
+Wells-Gardner K4906
+===================
+
+C201 - 1000uf 25v
+C205 - 470uf 16v
+C301 - 330uf 50v
+C303 - 2.2uf 50v
+C308 - 3.3uf 50v
+C310 - 10uf 100v
+C311 - 4.7uf 160v
+C313 - 47uf 160v
+C315 - 1uf 50v
+C351 - 1uf 50v
+C352 - 47uf 25v
+C354 - 47uf 25v
+C366 - 22uf 25v
+C505 - 560 uf 200v (Filter Cap)
+C506 - 22uf 160v
+C507 - 47uf 160v
+C701 - 1000uf 25v
+C702 - 10uf 100v
+
+There is also a 1uf 50v cap bridged over the top of D306, using the same holes as the diode.  Negative lead matches the banded side of the diode.
+
+Compiled by Modessitt
+Provided by www.juniorsrevenge.com

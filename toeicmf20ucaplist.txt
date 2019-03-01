@@ -1,0 +1,43 @@
+================
+Toei CM-F20U 19”
+================
+
+C1 - 47uf 10v*
+C2 - 470uf 10v*
+C3 - 0.47uf 50v
+C6 - 47uf 10v*
+C7 - 470uf 10v*
+C8 - 0.47uf 50v*
+C11 - 47uf 10v*
+C12 - 470uf 10v*
+C13 - 0.47uf 50v
+C16 - 10uf 16v*
+C17 - 22uf 16v*
+C19 - 100uf 10v*
+C20 - 1uf 50v (Bipolar)
+C21 - 470uf 16v*
+C22 - 1uf 50v*
+C28 - 1000uf 16v*
+C36 - 2.2uf 50v*
+C37 - 0.22uf 50v*
+C55 - 100uf 35v*
+C56 - 470uf 16v*
+C57 - 2200uf 16v*
+C59 - 470uf 10v
+C60 - 1uf 160v
+C61 - 470uf 160v (Filter cap)
+C63 - 100uf 160v*
+C64 - 10uf 160v*
+C65 - 2200uf 16v*
+C66 - 220uf 25v*
+C67 - 1uf 50v (Bipolar)
+C69 - 220uf 16v*
+C71 - 22uf 16v*
+C72 - 47uf 16v*
+C204 - 33uf 160v*
+C205 - 100uf 16v*
+
+*Note:  105° cap.
+
+Compiled by Edward Lutz
+Provided by www.juniorsrevenge.com

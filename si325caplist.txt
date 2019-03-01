@@ -1,0 +1,40 @@
+==================
+Sharp Image SI-325
+==================
+
+C108 - 10uf 35v
+C109 - 10uf 35v
+C110 - 10uf 35v
+C111 - 33uf 16v
+C112 - 1uf 50v
+C113 - 22uf 25v
+C115 - 22uf 25v
+C119 - 470uf 16v
+C202 - 1000uf 16v
+C203 - 47uf 50v
+C205 - 220uf 35v (upgrade lists a 330uf 50v)
+C210 - 470uf 25v
+C402 - 220uf 50v
+C403 - 1uf 50v
+C408 - 10uf 50v
+C500 - 47uf 16v
+C606 - 330uf 400v (Filter)
+C609 - 33uf 250v
+C610 - 10uf 160v
+C612 - 100uf 200v
+C613 - 100uf 200v
+C614 - 1000uf 35v
+C615 - 1000uf 35v
+C702 - 10uf 50v
+C805 - 100uf 25v   ]   ------------------
+C806 - 22uf 50v    ]--> Pincushion board
+C807 - 22uf 50v    ]   ------------------
+C902 - 1000uf 16v
+C903 - 220uf 35v
+C904 - 33uf 220v
+C906 - 1000uf 35v
+C909 - 220uf 50v
+
+
+Mined from Monitor Repair forums
+Provided by www.juniorsrevenge.com

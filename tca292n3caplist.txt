@@ -1,0 +1,71 @@
+===============
+Toei TC-A292N 3
+===============
+
+---------
+Neckboard
+---------
+
+C404 - 22uf 250v
+
+------------
+Main Chassis
+------------
+
+C1 - 100uf 16v
+C3 - 470uf 16v
+C5 - 22uf 16v
+C7 - 22uf 16v
+C9 - 22uf 16v
+C10 - 1uf 50v
+C12 - 2.2uf 50v
+C13 - 2.2uf 50v
+C14 - 2.2uf 50v
+C19 - 10uf 16v
+C28 - 4.7uf 50v (Bipolar)
+C29 - 22uf 16v
+C30 - 1uf 50v
+C32 - 4.7uf 50v (Bipolar)
+C34 - 1uf 50v
+C36 - 1uf 50v
+C37 - 10uf 16v
+C42 - 47uf 35v
+C44 - 47uf 35v
+C45 - 10uf 16v (Bipolar)
+C52 - 22uf 250v
+C53 - 10uf 50v
+C55 - 100uf 16v
+C61 - 47uf 35v
+C62 - 10uf 250v
+C63 - 1uf 50v (Bipolar)
+C66 - 33uf 16v
+C67 - 47uf 35v
+c68 - 100uf 50v
+C69 - 470uf 35v
+C70 - 2200uf 35v
+C71 - 33uf 50v
+C75 - 220uf 16v
+C76 - 1uf 50v
+C77 - 1uf 50v
+C78 - 330uf 16v
+C83 - 22uf 16v
+C84 - 47uf 35v
+C85 - 47uf 35v
+C87 - 10uf 50v
+C88 - 2.2uf 50v (Bipolar)
+C89 - 2.2uf 50v (Bipolar)
+C90 - 47uf 25v
+C92 - 1000uf 35v
+C94 - 4.7uf 50v (Bipolar)
+C96 - 470uf 16v
+C102 - 47uf 160v
+C104 - 1000uf 25v
+C105 - 1000uf 16v
+C111 - 47uf 100v
+C112 - 100uf 16v
+C115 - 680uf 180v
+C123 - 100uf 16v
+C124 - 100uf 16v
+
+Mined from Monitor Repair forums
+Provided by www.juniorsrevenge.com

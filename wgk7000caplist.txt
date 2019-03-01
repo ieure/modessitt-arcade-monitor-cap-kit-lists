@@ -1,0 +1,26 @@
+===================
+Wells-Gardner K7000
+===================
+
+C10 - 33uf 16v
+C11 - 22uf 25v
+C12 - 1uf 50v
+C13 - 22uf 25v
+C18 - 1uf 50v
+C20 - 10uf 25v
+C21 - 10uf 25v
+C22 - 1uf 50v
+C23 - 47uf 25v
+C40 - 2200uf 35v
+C42 - 1000uf 16v
+C45 - 470uf 16v
+C46 - 470uf 16v
+C48 - 100uf 35v
+C50 - 1000uf 25v
+C56 - 22uf 160v
+C57 - 47uf 160v
+
+C204 - 4.7uf 250v (Found on some neckboards)
+
+Compiled by Modessitt
+Provided by www.juniorsrevenge.com

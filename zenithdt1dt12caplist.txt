@@ -1,0 +1,26 @@
+================================
+Zenith DT1 D12 Black & White 12”
+================================
+
+C109 - 4.7uf 25v
+C116 - 10uf 25v (Bipolar)
+C117 - 100uf 25v
+C120 - 2.2uf 100v
+C121 - 1uf 100v
+C303 - 22uf 25v
+C304 - 100uf 50v
+C305 - 4.7uf 16v
+C307 - 1uf 50v
+C308 - 47uf 50v
+C309 - 10uf 25v
+C312 - 1000uf 16v
+C313 - 1uf 50v
+C401 - 47uf 100v
+C402 - 4.7uf 63v
+C501 - 2200uf 35v
+C502 - 220uf 10v
+C503 - 100uf 25v
+C504 - 200uf 25v
+
+Compiled by Edward Lutz
+Provided by www.juniorsrevenge.com

@@ -1,0 +1,69 @@
+===================================================
+Neotec NT-2700/NT-2701/NT-2702/NT3500/NT3501/NT3506
+===================================================
+
+---------
+Neckboard
+---------
+
+C901 - 10uf 50v
+C903 - 10uf 50v
+C904 - 10uf 50v
+C905 - 10uf 50v
+C906 - 100uf 16v
+C915 - 100uf 16v
+C916 - 10uf 50v
+C917 - 100uf 16v
+C920 - 22uf 160v
+C950 - 10uf 50v
+C952 - 10uf 50v
+
+------------
+Main Chassis
+------------
+
+C106 - 100uf 35v
+C110 - 1uf 50v or 100v
+C116 - 470uf 16v
+C117 - 1000uf 35v
+C118 - 100uf 160v
+C119 - 100uf 160v
+C120 - 1000uf 35v
+C121 - 220uf 16v
+C124 - 22uf 160v
+C126 - 470uf 16v
+C129 - 22uf 160v
+C130 - 470uf 25v
+C201 - 100uf 16v
+C203 - 47uf 25v
+C204 - 47uf 25v
+C301 - 10uf 50v
+C305 - 100uf 16v
+C308 - 100uf 35v
+C309 - 100uf 35v
+C312 - 200uf 25v
+C316 - 220uf 25v
+C329 - 47uf 25v
+c350 - 470uf 16v
+C406 - 1uf 50v or 100v
+C407 - 1uf 50v or 100v
+C411 - 3.3uf 50v
+C412 - 4.7uf 50v or 63v
+C414 - 470uf 16v
+C415 - 2.2uf 50v or 63v
+C417 - 100uf 160v
+C426 - 1uf 250v
+C430 - 10uf 50v
+C501 - 100uf 35v
+C502 - 4.7uf 50v or 63v
+C504 - 2.2uf 50v or 63v
+C506 - 4.7uf 50v or 63v
+C507 - 4.7uf 50v or 63v
+C508 - 22uf 50v or 63v
+C550 - 10uf 50v  (Bipolar)
+C551 - 100uf 35v
+C603 - 10uf 50v
+C604 - 10uf 50v
+
+Compiled by Modessitt
+Provided by www.juniorsrevenge.com

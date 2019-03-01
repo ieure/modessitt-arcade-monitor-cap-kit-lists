@@ -1,0 +1,25 @@
+============================
+Atari Disco DMC2090DT-2A/B/C
+============================
+
+C005 - 4.7uf 160v
+C006 - 22uf 160v
+C203 - 220uf 25v
+C401 - 330uf 25v
+C403 - 1uf 50v
+C407 - 10uf 50v
+C408 - 22uf 160v
+C412 - 100uf 160v
+C503 - 10uf 16v
+C510 - 100uf 16v
+C527 - 33uf 25v
+C529 - 4.7uf 160v
+C533 - 1uf 50v
+C601 - 22uf 160v
+C602 - 470uf 25v
+C604 - 4.7uf 250v
+C706 - 4.7uf 250v
+C777 - 100uf 16v
+
+Mined from www.ionpool.net
+Provided by www.juniorsrevenge.com

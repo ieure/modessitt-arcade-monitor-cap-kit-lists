@@ -1,0 +1,40 @@
+================
+Promax 1820H 19”
+================
+
+C105 - 470uf 200v (Filter cap)
+C106 - 1uf 160v
+C301 - 1uf 50v*
+C303 - 1uf 50v*
+C304 - 1uf 50v*
+C309 - 47uf 25v*
+C404 - 1uf 50v*
+C407 - 100uf 16V*
+C408 - 8.2uf 50v  -] (Two locations are screened with the same location.)
+C408 - 470uf 16v* -] (Two locations are screened with the same location.)
+C409 - 330uf 50v*
+C412 - 33uf 25v*
+C413 - 4.7uf 160v*
+C414 - 1uf 50v
+C501 - 10uf 50v*
+C601 - 47uf 25v*
+C602 - 47uf 25v*
+C603 - 47uf 25v*
+C604 - 33uf 25v*
+C605 - 220uf 16v
+C608 - 8.2uf 50v
+C701 - 1uf 50v*
+C702 - 1uf 50v*
+C703 - 100uf 16v*
+C704 - 47uf 16v*
+C803 - 330uf 25v*
+C804 - 100uf 100v*
+C805 - 4.7uf 160v*
+C906 - 100uf 160v*
+
+C??? - 1000uf 35v (located next to J28)
+
+*Note: 105° cap.
+
+Compiled by Edward Lutz
+Provided by www.juniorsrevenge.com

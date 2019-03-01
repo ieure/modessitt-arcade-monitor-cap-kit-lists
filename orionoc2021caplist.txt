@@ -1,0 +1,29 @@
+=============
+Orion OC-2021
+=============
+
+c201 - 10uf 25v 
+c202 - 10uf 25v 
+c203 - 10uf 25v 
+c251 - 100uf 16v 
+c252 - 220uf 16v 
+c302 - 1uf 50v 
+c305 - 220uf 16v 
+c310 - 4.7uf 160v 
+c311 - 22uf 160v 
+c313 - 100uf 160v 
+c402 - 47uf 16v 
+c403 - 470uf 16v 
+c406 - 1uf 50v 
+c410 - 4.7uf 160v 
+c414 - 470uf 160v
+c415 - 10uf 160v 
+c501 - 1uf 50v 
+c503 - 1uf 50v 
+c551 - 3.3uf 160v 
+c552 - 33uf 16v 
+c553 - 10uf 25v 
+c554 - 4.7uf 50v 
+
+Mined from Monitor Repair forums
+Provided by www.juniorsrevenge.com

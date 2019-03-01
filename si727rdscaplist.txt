@@ -1,0 +1,55 @@
+======================
+Sharp Image SI-727R-DS
+======================
+
+---------
+Neckboard
+---------
+
+C708 - 47uF 25v
+C709 - 47uF 25v
+C710 - 47uF 25v
+C720 - 220uF 25v
+C721 - 100uF 25v
+C726 - 10uF 50v
+
+------------
+Main Chassis
+------------
+
+C104 - 220uF 25v
+C106 - 1000uF 25v
+C107 - 22uF 50v
+C108 - 10uF 50v
+C109 - 22uF 35v
+C302 - 100uF 25v
+C305 - 100uF 25v
+C306 - 1uF 50v
+C326 - 1000uF 35v
+C394 - 470uF 25v
+C395 - 100uF 35v
+C398 - 1000uF 25v
+C401 - 47uF 25v
+C406 - 1uF 50v
+C409 - 1uF 50v
+C410 - 1uF 50v
+C412 - 10uF 160v
+C420 - 1000uF 25v
+C421 - 10uF 250v
+C423 - 1000uF 16v
+C424 - 33uF 35v
+C809 - 47uF 35v
+C810 - 220uF 25v
+C815 - 330uF 400v (Filter)
+C817 - 100uF 160v
+C818 - 100uF 160v
+C901 - 1000uF 35v
+C905 - 1000uF 16v
+C906 - 47uF 35v
+C908 - 100uF 250v
+
+
+HOT = C5150
+
+Compiled by Modessitt
+Provided by www.juniorsrevenge.com
